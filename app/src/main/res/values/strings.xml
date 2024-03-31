@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Online Shop - mvvm</string>
+    <string name="intro_title">Step into ypur <font color="#6033ba">style\n A world of shoes</font></string>
+    <string name="intro_signin">Already have an account? <font color="#6033ba">Sign in</font></string>
+    <string name="intro_text">Brows the latest style from top brands\nGet personalized recommendations\nEnjoy fast, free shipping</string>
+    <string name="get_started">Let\'s Get Started</string>
+    <string name="welcome">ٌWelcome Back</string>
+    <string name="name">Hamidreza</string>
+    <string name="official_brands">Official Brands</string>
+    <string name="see_all">See all</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="explorer">Explorer</string>
+    <string name="cart">Cart</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="my_order">My Order</string>
+    <string name="profile">Profile</string>
+    <string name="title">title</string>
+    <string name="dollar">$-</string>
+    <string name="select_size">Select Size</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="empty_cart">Your Cart is Empty</string>
+    <string name="my_cart">My Cart</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="fee_delivery">Fee Delivery</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="total">Total</string>
+    <string name="check_out">Check Out</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
 </resources>
